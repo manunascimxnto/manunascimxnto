@@ -17,7 +17,7 @@
 
 ## 💼 Professional Experience
 
-- **Avinash Joias**  
+- **[Avinash Joias](https://www.avinash.com.br/)**  
   *Content Designer* — Freelance
 
 - **[GEP Worldwide](https://www.linkedin.com/company/gep-worldwide/posts/?feedView=all)**  
@@ -46,7 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma" />
-
+          
 ---
 
 ## 🌐 Languages
@@ -55,4 +55,6 @@
 ---
 
 ## 🔗 Let's connect !
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuelle-nascimento2005) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:emanuellenascimentocp2005@gmail.com)
+
+<p align="left">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
