@@ -2,17 +2,16 @@
 
 ---
 
-## 🎓 Education
-- **Mackenzie Presbyterian University**  
-  *Associate Degree in Systems Analysis & Development*  
+## 🎓 Higher Education
 
-- **Mackenzie Presbyterian University**
-  *Foundation iOS UX/UI Design*
+- **[Mackenzie Presbyterian University](https://www.mackenzie.br/universidade/pg)**  
+  *Associate Degree in Systems Analysis & Development*  
 
 ---
 
 ## 📜 Certifications
-- **TOEFL iBT (73/120)**
+
+- **[TOEFL iBT](https://toeflibt.ets.org/welcome) (73/120)**
 
 ---
 
@@ -21,16 +20,16 @@
 - **Avinash Joias**  
   *Content Designer* — Freelance
 
-- **GEP Worldwide**  
+- **[GEP Worldwide](https://www.linkedin.com/company/gep-worldwide/posts/?feedView=all)**  
   *Data Engineer* — Internship
 
-- **Mackenzie Presbyterian University**  
+- **[Mackenzie Presbyterian University](https://www.linkedin.com/company/mackenzie-international-office/posts/?feedView=all)**  
   *International Ambassador* — Leadership Program
 
-- **Butantan Institute**  
+- **[Butantan Foundation](https://www.linkedin.com/company/fundacaobutantan/posts/?feedView=all)**  
   *Administrative Assistant* — Apprenticeship
 
-- **Soul Bilíngue**  
+- **[Soul Bilíngue](https://www.linkedin.com/company/soulbilingue/posts/?feedView=all)**  
   *English Teacher* — Volunteer
 
 ---
