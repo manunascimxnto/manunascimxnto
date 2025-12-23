@@ -12,31 +12,35 @@
 ---
 
 ## 📜 Certifications
-- **TOEFL iBT (73/120)**  
-![TOEFL Badge](https://img.shields.io/badge/TOEFL-73/120-blue?style=flat-square)
+- **TOEFL iBT (73/120)**
 
 ---
 
 ## 💼 Professional Experience
 
 - **Avinash Joias**  
-  *Content Designer* - Freelance
-  
+  *Content Designer* — Freelance  
+  ![3 months](https://img.shields.io/badge/Duration-3%20months-blue?style=flat-square)
+
 - **GEP Worldwide**  
-  *Data Engineer* - Internship
-  
+  *Data Engineer* — Internship  
+  ![3 months](https://img.shields.io/badge/Duration-3%20months-green?style=flat-square)
+
 - **Mackenzie Presbyterian University**  
-  *International Ambassador* - Leadership Program
+  *International Ambassador* — Leadership Program  
+  ![1 year 5 months](https://img.shields.io/badge/Duration-1%20year%205%20months-orange?style=flat-square)
 
 - **Butantan Institute**  
-  *Administrative Assistant* - Apprenticeship
+  *Administrative Assistant* — Apprenticeship  
+  ![5 months](https://img.shields.io/badge/Duration-5%20months-red?style=flat-square)
 
- - **Soul Bilíngue**  
-  *English Teacher* - Volunteer  
+- **Soul Bilíngue**  
+  *English Teacher* — Volunteer  
+  ![6 months](https://img.shields.io/badge/Duration-6%20months-purple?style=flat-square)
 
 ---
 
-## Soft Skills
+## 👥 Soft Skills
 ![Collaboration](https://img.shields.io/badge/Collaboration-blue?style=for-the-badge) ![Communication](https://img.shields.io/badge/Communication-green?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge) ![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-teal?style=for-the-badge)
 
 ## 🛠️ Hard Skills
