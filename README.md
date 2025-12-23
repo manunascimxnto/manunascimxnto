@@ -56,4 +56,7 @@
 ## 🔗 Let's connect !
 
 <p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/emanuelle-nascimento2005/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
+  </a>
+</p>
