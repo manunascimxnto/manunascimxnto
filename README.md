@@ -37,6 +37,7 @@
 ---
 
 ## 👥 Soft Skills
+
 ![Communication](https://img.shields.io/badge/Communication-green?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge) ![Collaboration](https://img.shields.io/badge/Collaboration-blue?style=for-the-badge) ![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-teal?style=for-the-badge)
 
 ## 💻 Hard Skills
@@ -48,8 +49,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" alt="Figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" alt="SQL"/>
-          
+
 ---
 
 ## 🌐 Languages
+
 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square) ![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square) ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red?style=flat-square)
