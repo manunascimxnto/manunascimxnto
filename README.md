@@ -18,7 +18,7 @@
 ## 💼 Professional Experience
 
 - **[Avinash Joias](https://www.avinash.com.br/)**  
-  *Content Designer* — Freelance
+  *Content Designer* — Contract
 
 - **[GEP Worldwide](https://www.linkedin.com/company/gep-worldwide/posts/?feedView=all)**  
   *Data Engineer* — Internship
