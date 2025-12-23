@@ -1,7 +1,9 @@
 # 🌎 Hello World! I'm Emanuelle 👩🏻‍🦰
 
-🎓 **Associate Degree in Systems Analysis & Development** at [Mackenzie Presbyterian University](https://www.mackenzie.br/) 
-💼 3+ years of professional experience  
+🎓 **Associate Degree in Systems Analysis & Development** at [Mackenzie Presbyterian University](https://www.mackenzie.br/)
+
+💼 3+ years of professional experience
+
 🎨 Currently developing skills in **Front-end** and **UX/UI Design**, leveraging my technical background to create user-centered digital experiences  
 
 ---
