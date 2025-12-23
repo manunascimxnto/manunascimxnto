@@ -25,10 +25,10 @@
 ---
 
 ## Soft Skills
-![Collaboration](https://img.shields.io/badge/Collaboration-blue?style=for-the-badge) ![Communication](https://img.shields.io/badge/Communication-green?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge) ![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Collaboration-blue?style=for-the-badge) ![Communication](https://img.shields.io/badge/Communication-green?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge) ![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-teal?style=for-the-badge)
 
 ## 🛠️ Hard Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3) ![Figma](https://img.shields.io/badge/Figma-tool-black?style=for-the-badge&logo=figma)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript) ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python) ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3) ![Figma](https://img.shields.io/badge/Figma-tool-black?style=for-the-badge&logo=figma) ![Miro](https://img.shields.io/badge/Miro-yellow?style=for-the-badge&logo=miro) ![Lucidchart](https://img.shields.io/badge/Lucidchart-orange?style=for-the-badge&logo=lucidchart)
  
 ---
 
