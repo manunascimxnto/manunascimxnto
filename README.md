@@ -1,9 +1,30 @@
-# 🌎 Hello World!
-# My name is Emanuelle, but you can call me Manu 👩🏻‍🦰
+# 🌎 Hello World! I'm Emanuelle 👩🏻‍🦰
 
-### I started my coding journey at a [DIO](https://web.dio.me/track/potencia-tech-ifood-programacao-do-zero#state=f722d6e0-a3bd-4c14-8ab7-c87339d28a89&session_state=4cb6a294-dce1-4544-82f0-2af43a1f89e7&code=517d1289-8015-46c9-a488-210dd5e96aa2.4cb6a294-dce1-4544-82f0-2af43a1f89e7.a889d5a2-0d02-46df-83a5-28a1b4ac39ab) Bootcamp and am currently improving my Front-End skills studying Systems Analysis & Development at [Mackenzie](https://www.mackenzie.br/) Presbyterian University.
+🎓 **Associate Degree in Systems Analysis & Development** at [Mackenzie Presbyterian University](https://www.mackenzie.br/) 
+💼 3+ years of professional experience  
+🎨 Currently developing skills in **Front-end** and **UX/UI Design**, leveraging my technical background to create user-centered digital experiences  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white%29)](https://www.linkedin.com/in/emanuelle-nascimento2005/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emanuellenascimentocp2005@gmail.com) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](http://discordapp.com/users/1165099229241425930)
+---
+
+## 💡 About Me
+- 🤝 Known for strong **collaboration, communication, and teamwork**  
+- 💬 I love sharing ideas and working closely with diverse teams  
+- 🚀 Open to opportunities in **tech companies, fintechs, and startups** where I can contribute to intuitive interfaces, scalable solutions, and impactful products  
+- 🌍 Born in **Rio de Janeiro**, now based in **São Paulo**, enriching my academic, professional, and cultural journey  
+
+---
+
+## 🌐 Languages
+![Portuguese Badge](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge)  
+![English Badge](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)  
+![Spanish Badge](https://img.shields.io/badge/Spanish-Intermediate-red?style=for-the-badge)
+
+---
+
+## 🔗 Connect with Me :)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuelle-nascimento2005)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manunascimxnto)  
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:emanuellenascimentocp2005@gmail.com)
 
 
 
