@@ -19,24 +19,19 @@
 ## 💼 Professional Experience
 
 - **Avinash Joias**  
-  *Content Designer* — Freelance  
-  ![3 months](https://img.shields.io/badge/Duration-3%20months-blue?style=flat-square)
+  *Content Designer* — Freelance
 
 - **GEP Worldwide**  
-  *Data Engineer* — Internship  
-  ![3 months](https://img.shields.io/badge/Duration-3%20months-green?style=flat-square)
+  *Data Engineer* — Internship
 
 - **Mackenzie Presbyterian University**  
-  *International Ambassador* — Leadership Program  
-  ![1 year 5 months](https://img.shields.io/badge/Duration-1%20year%205%20months-orange?style=flat-square)
+  *International Ambassador* — Leadership Program
 
 - **Butantan Institute**  
-  *Administrative Assistant* — Apprenticeship  
-  ![5 months](https://img.shields.io/badge/Duration-5%20months-red?style=flat-square)
+  *Administrative Assistant* — Apprenticeship
 
 - **Soul Bilíngue**  
-  *English Teacher* — Volunteer  
-  ![6 months](https://img.shields.io/badge/Duration-6%20months-purple?style=flat-square)
+  *English Teacher* — Volunteer
 
 ---
 
@@ -55,14 +50,3 @@
 
 ## 🔗 Let's connect !
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuelle-nascimento2005) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:emanuellenascimentocp2005@gmail.com)
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
