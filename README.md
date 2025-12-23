@@ -35,18 +35,16 @@
 ---
 
 ## 👥 Soft Skills
-![Collaboration](https://img.shields.io/badge/Collaboration-blue?style=for-the-badge) ![Communication](https://img.shields.io/badge/Communication-green?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge) ![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-teal?style=for-the-badge)
-
---
+![Communication](https://img.shields.io/badge/Communication-green?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge) ![Collaboration](https://img.shields.io/badge/Collaboration-blue?style=for-the-badge) ![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-teal?style=for-the-badge)
 
 ## 💻 Hard Skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" alt="Figma" />
           
 ---
 
@@ -58,4 +56,4 @@
 ## 🔗 Let's connect !
 
 <p align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
