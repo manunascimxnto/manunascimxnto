@@ -49,7 +49,7 @@
 ---
 
 ## 🌐 Languages
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square) ![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square) ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red?style=flat-square)  
+🇧🇷 ![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square) 🇺🇸 ![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square) 🇪🇸 ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red?style=flat-square)  
 
 ---
 
