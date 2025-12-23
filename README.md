@@ -32,11 +32,11 @@
 - **[Soul Bilíngue](https://www.linkedin.com/company/soulbilingue/posts/?feedView=all)**  
   *English Teacher* — Volunteer
 
-# Curious to know more? Connect with me on LinkedIn:
+### Curious to know more? Connect with me on LinkedIn:
 
 <p align="left"> 
  <a href="https://www.linkedin.com/in/emanuelle-nascimento2005/" target="_blank"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="20" alt="LinkedIn" /> 
  </a> 
 </p>
 
