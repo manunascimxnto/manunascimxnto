@@ -32,6 +32,14 @@
 - **[Soul Bilíngue](https://www.linkedin.com/company/soulbilingue/posts/?feedView=all)**  
   *English Teacher* — Volunteer
 
+# Curious to know more? Connect with me on LinkedIn:
+
+<p align="left"> 
+ <a href="https://www.linkedin.com/in/emanuelle-nascimento2005/" target="_blank"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" /> 
+ </a> 
+</p>
+
 ---
 
 ## 👥 Soft Skills
@@ -45,18 +53,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" height="50" alt="SQL"/>
           
 ---
 
 ## 🌐 Languages
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square) ![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square) ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red?style=flat-square)  
-
----
-
-## 🔗 Let's connect !
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/emanuelle-nascimento2005/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="50" alt="LinkedIn" />
-  </a>
-</p>
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square) ![English](https://img.shields.io/badge/English-Advanced-blue?style=flat-square) ![Spanish](https://img.shields.io/badge/Spanish-Intermediate-red?style=flat-square)
