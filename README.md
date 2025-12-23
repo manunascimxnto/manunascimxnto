@@ -47,10 +47,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/miro/miro-original.svg" height="40" alt="Miro" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lucidchart/lucidchart-original.svg" height="40" alt="Lucidchart" />
-</p>
- 
+
 ---
 
 ## 🌐 Languages
