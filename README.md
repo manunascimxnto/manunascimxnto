@@ -18,9 +18,21 @@
 ---
 
 ## 💼 Professional Experience
-- **GEP Worldwide**  
-  *Data Engineer* - Internship 
 
+- **Avinash Joias**  
+  *Content Designer* - Freelance
+  
+- **GEP Worldwide**  
+  *Data Engineer* - Internship
+  
+- **Mackenzie Presbyterian University**  
+  *International Ambassador* - Leadership Program
+
+- **Butantan Institute**  
+  *Administrative Assistant* - Apprenticeship
+
+ - **Soul Bilíngue**  
+  *English Teacher* - Volunteer  
 
 ---
 
@@ -37,5 +49,5 @@
 
 ---
 
-## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuelle-nascimento2005) [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/manunascimxnto) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:emanuellenascimentocp2005@gmail.com)
+## 🔗 Let's connect !
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuelle-nascimento2005) [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:emanuellenascimentocp2005@gmail.com)
