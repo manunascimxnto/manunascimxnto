@@ -37,6 +37,7 @@
 ## 👥 Soft Skills
 ![Collaboration](https://img.shields.io/badge/Collaboration-blue?style=for-the-badge) ![Communication](https://img.shields.io/badge/Communication-green?style=for-the-badge) ![Teamwork](https://img.shields.io/badge/Teamwork-orange?style=for-the-badge) ![Leadership](https://img.shields.io/badge/Leadership-red?style=for-the-badge) ![Problem-Solving](https://img.shields.io/badge/Problem%20Solving-teal?style=for-the-badge)
 
+--
 
 ## 💻 Hard Skills
 
